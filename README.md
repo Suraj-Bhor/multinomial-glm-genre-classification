@@ -1,6 +1,6 @@
 # multinomial-glm-genre-classification
 Multinomial GLM for Genre Classification and Feature Analysis
-
+![alt text](outputs/residual_plots.png)
 ## Project Overview
 
 This project focuses on applying **Generalized Linear Models (GLMs)** to classify genres based on musical features. The study started by exploring data from over 100,000 tracks, analyzing various musical attributes to identify their relationship with genre classification. Through iterative modeling and evaluation, we refined the approach to produce an optimal model for genre prediction, along with feature analysis to better understand the influence of these attributes.
