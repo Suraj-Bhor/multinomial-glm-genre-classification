@@ -1,6 +1,0 @@
-2024-09-22 18:06:50,933 - spotify_tracks_analysis - INFO - Starting Spotify Tracks Analysis
-2024-09-22 18:06:50,933 - spotify_tracks_analysis - INFO - Loading dataset
-2024-09-22 18:06:51,241 - spotify_tracks_analysis - INFO - Dataset loaded with 114000 rows and 21 columns
-2024-09-22 18:06:51,242 - spotify_tracks_analysis - INFO - Preprocessing data
-2024-09-22 18:06:51,250 - spotify_tracks_analysis - INFO - Performing exploratory data analysis
-2024-09-22 18:06:58,379 - spotify_tracks_analysis - INFO - Engineering features
