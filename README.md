@@ -66,9 +66,9 @@ When you run the script, the following steps will be executed:
 ## Output
 The results, including model summaries, visualizations, and evaluation metrics, will be saved in the `outputs/` directory:
 
-**Model Summaries**: Detailed GLM summaries and metrics will be stored in text files.
-**Figures**: Plots generated during the exploratory data analysis, model evaluation, and feature analysis will be saved in the figures/ subdirectory.
-**Tables**: Model evaluation results and VIF values will be stored in the tables/ subdirectory.
+1. **Model Summaries**: Detailed GLM summaries and metrics will be stored in text files.
+2. **Figures**: Plots generated during the exploratory data analysis, model evaluation, and feature analysis will be saved in the figures/ subdirectory.
+3. **Tables**: Model evaluation results and VIF values will be stored in the tables/ subdirectory.
 
 ## Logging
 A log of the entire process will be maintained, providing details about each step in the analysis.
